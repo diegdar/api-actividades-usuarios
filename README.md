@@ -90,8 +90,3 @@ Se ha utilizado la librería Spatie de Laravel para la gestión de roles y permi
         "max_capacity": 30
     }
 ]
-
-/* TODO: 
--Hacer que el role admin pueda crear otras cuentas admin.
--Impedir que un role admin pueda unirse a una actividad.
-*/
